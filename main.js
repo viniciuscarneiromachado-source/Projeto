@@ -10,19 +10,19 @@ const paragrafo_1 = document.createElement('p1');
 paragrafo_1.id = 'texto_principal';
 paragrafo_1.textContent = 'Conteúdo';
 
-const titulo_2 = document.createElement('h2');
+const titulo_2 = document.createElement('h1');
 titulo_2.id = 'titulo_principal';
 titulo_2.textContent = 'Sobre o nosso site';
 
-const paragrafo_2 = document.createElement('p2');
+const paragrafo_2 = document.createElement('p1');
 paragrafo_2.id = 'texto_principal';
 paragrafo_2.textContent = 'Conteúdo';
 
-const titulo_3 = document.createElement('h3');
+const titulo_3 = document.createElement('h1');
 titulo_3.id = 'titulo_principal';
 titulo_3.textContent = 'Por quê consultar com nós?';
 
-const paragrafo_3 = document.createElement('p3');
+const paragrafo_3 = document.createElement('p1');
 paragrafo_3.id = 'texto_principal';
 paragrafo_3.textContent = 'Conteúdo';
 
